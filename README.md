@@ -1,10 +1,10 @@
-🏨 Hotel Management System
+## 🏨 Hotel Management System
 
 A Java + MySQL-based Desktop Application to streamline hotel operations including room booking, customer check-in/out, employee management, and service handling. This system offers role-based access for administrators and receptionists to efficiently manage hotel resources and enhance customer service.
 
 ⸻
 
-📌 Features
+## 📌 Features
 
 🔐 Admin Panel
 	•	Login with secure credentials
@@ -27,14 +27,14 @@ A Java + MySQL-based Desktop Application to streamline hotel operations includin
 
 ⸻
 
-🧱 Tech Stack
+## 🧱 Tech Stack
 - Frontend: Java (Swing)
 - Backend: Java + JDBC
 - Database: MySQL
 
 ⸻
 
-🗃️ Database Schema
+## 🗃️ Database Schema
 
 The system uses five core tables:
 	•	Customer
@@ -47,15 +47,8 @@ The system uses five core tables:
 
 ⸻
 
-🖼️ UI Screenshots
-	•	Login Page
-	•	Admin Dashboard
-	•	Add Room/Employee/Driver Forms
-	•	Reception Dashboard
-	•	Customer Check-in and History
-	•	Room Information and Search
-	•	Check-out and Billing
-	•	Pickup Scheduling
+## 🖼️ UI Screenshots
+
 ![IMG_0441](https://github.com/user-attachments/assets/19f46aab-a3bf-4c4c-a122-477e827d550d)
 ![IMG_0440](https://github.com/user-attachments/assets/308a92cb-5fcd-431e-bba1-58ba3f8b995d)
 ![IMG_0439](https://github.com/user-attachments/assets/17b423ea-701a-4462-8b5c-539c44c376cd)

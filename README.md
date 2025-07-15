@@ -28,9 +28,11 @@ A Java + MySQL-based Desktop Application to streamline hotel operations includin
 ⸻
 
 🧱 Tech Stack
--Frontend: Java (Swing)
--Backend: Java + JDBC
--Database: MySQL
+- Frontend: Java (Swing)
+- Backend: Java + JDBC
+- Database: MySQL
+
+⸻
 
 🗃️ Database Schema
 
@@ -42,6 +44,9 @@ The system uses five core tables:
 	•	Login
 
 📌 All tables are normalized and relationally linked using appropriate keys.
+
+⸻
+
 🖼️ UI Screenshots
 	•	Login Page
 	•	Admin Dashboard
